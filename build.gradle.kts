@@ -22,7 +22,7 @@ plugins {
     kotlin("plugin.serialization") version "1.7.0"
 
     // GraphQL query objects generator
-    id("com.expediagroup.graphql") version "5.5.0"
+    id("com.expediagroup.graphql") version "6.0.0"
 }
 
 group = properties("pluginGroup")
